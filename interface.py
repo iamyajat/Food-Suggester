@@ -102,4 +102,3 @@ while True:
     else:
         break
 print("Thank you for using this app. Have a great day!")
-

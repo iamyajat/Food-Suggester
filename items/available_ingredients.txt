@@ -1,19 +1,21 @@
-bread
-honey
-bun
-chicken
-cheese
-more chicken
-milk
-pizza base
-onion
-wheat
-rice
-pizza sauce
-butter
-cucumber
-pig toes
-olive
-ketchup
 cumin
+kaju
+olive
+pizza sauce
+milk
+bread
+ketchup
+chicken
 mayo
+honey
+sugar
+khoa
+pizza base
+cucumber
+rice
+bun
+more chicken
+wheat
+cheese
+onion
+butter
